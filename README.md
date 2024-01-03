@@ -1,5 +1,7 @@
-# DOOM style 3d (raycasting) game in Python (based on Wolfenstein 3d)
+DRUG-BUSTER-DEMO
 
-Control: 'WASD' + mouse
+To run the game on any IDE
+1. Install the pygame
+   command- pip install pygame
+2.Run the main.py file 
 
-![doom](/sreenshots/0.jpg)
